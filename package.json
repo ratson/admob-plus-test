@@ -33,9 +33,9 @@
   "devDependencies": {
     "@ionic/app-scripts": "3.2.4",
     "admob-plus-cordova": "1.7.0",
-    "cordova-android": "9.0.0",
     "cordova-ios": "6.2.0",
     "cordova-plugin-device": "2.0.2",
+    "cordova-plugin-firebasex": "11.0.3",
     "cordova-plugin-ionic-keyboard": "2.2.0",
     "cordova-plugin-ionic-webview": "4.2.1",
     "cordova-plugin-splashscreen": "5.0.2",
@@ -58,11 +58,9 @@
         "PLAY_SERVICES_VERSION": "19.8.0",
         "USAGE": "This identifier will be used to deliver personalized ads to you.",
         "DISABLESDKCRASHREPORTING": "false"
-      }
+      },
+      "cordova-plugin-firebasex": {}
     },
-    "platforms": [
-      "android",
-      "ios"
-    ]
+    "platforms": []
   }
 }
