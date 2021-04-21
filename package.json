@@ -57,6 +57,8 @@
         "FIREBASE_CRASHLYTICS_COLLECTION_ENABLED": "true"
       }
     },
-    "platforms": []
+    "platforms": [
+      "ios"
+    ]
   }
 }
