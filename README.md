@@ -1,8 +1,12 @@
 # admob-plus-test
 
-Test repo to debug admob-plus. Next steps to test admob-plus integration: 
+Test repo to debug admob-plus.
 
-## Sample APP ID's that can be used when adding the admob-plus-test
+## Instructions
+
+- You will need to change the bundlename in config.xml and generate a new GoogleService-Info.plist from a test project in your Firebase console, matching the name you enter in config.xml, and add this .plist file in the project root folder.
+
+### Sample APP ID's that can be used when adding the admob-plus plugin
 
 iOS: https://developers.google.com/ad-manager/mobile-ads-sdk/ios/quick-start
 
