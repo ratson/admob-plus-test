@@ -4,6 +4,8 @@ Test repo to debug admob-plus.
 
 ## Instructions
 
+### Generate a GoogleService-Info.plist for the existent firebasex plugin
+
 - You will need to change the bundlename in config.xml and generate a new GoogleService-Info.plist from a test project in your Firebase console, matching the name you enter in config.xml, and add this .plist file in the project root folder.
 
 ### Sample APP ID's that can be used when adding the admob-plus plugin
